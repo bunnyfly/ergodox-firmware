@@ -72,7 +72,7 @@ const uint8_t PROGMEM _kb_layout[KB_LAYERS][KB_ROWS][KB_COLUMNS] = {
 0,
 // left hand
   0,        0,        0,      0,  0,  0,  0,
-  0,     _F11,_     F12,  _mute,  0,  0,  0,
+  0,     _F11,     _F12,  _mute,  0,  0,  0,
   0, _volumeD, _volumeD,      0,  0,  0,
   0,      _F1,      _F2,    _F3,_F4,_F5,  0,
   0,        0,        0,  0,  0,
